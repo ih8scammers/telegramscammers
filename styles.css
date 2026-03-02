@@ -96,3 +96,7 @@ main > article > section:first-child {
 main article p:first-of-type {
   margin-top: 0.4rem;    /* Fine-tune this value: 0.4rem–0.8rem usually looks good */
 }
+
+.scam-heading {
+  margin-top: 0;
+}
